@@ -67,8 +67,7 @@ Ulakinte adhipathiye
 
 Muthe Muthe Chakkara Muthe (2)
 Muthe Muthe`
-},
-
+}
 {
   id: 2,
   title: "കണ്ണും കണ്ണും കാത്തിരുന്നു",
