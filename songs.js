@@ -1,14 +1,16 @@
-{
-  id: 1,
-  title: "മുത്തേ മുത്തേ മുത്തേ മുത്തേ",
-  englishTitle: "Muthe Muthe Muthe Muthe",
-  category: "Christmas Song",
-  composer: "Titus Mathew",
-  artist: "D Voice",
-  year: 2020,
-  language: "ml",
 
-  lyrics: `മുത്തേ മുത്തേ മുത്തേ മുത്തേ പൊന്നോമനേ
+const songs = [
+  {
+    id: 1,
+    title: "മുത്തേ മുത്തേ മുത്തേ മുത്തേ",
+    englishTitle: "Muthe Muthe Muthe Muthe",
+    category: "Christmas Song",
+    composer: "Titus Mathew",
+    artist: "D Voice",
+    year: 2020,
+    language: "ml",
+
+    lyrics: `മുത്തേ മുത്തേ മുത്തേ മുത്തേ പൊന്നോമനേ
 നിന്നെ കാണാൻ കൊതിച്ചൊരു നാളിൽ
 മഞ്ഞു പെയ്യുന്ന താഴ്വരയിൽ
 ഒരു ജീവന്റ്റേ കളിയാട്ടമായി
@@ -38,7 +40,7 @@
 മുത്തേ മുത്തേ ചക്കര മുത്തേ (2)
 മുത്തേ മുത്തേ`,
 
-  lyricsManglish: `Muthe Muthe Muthe Muthe Ponnomane
+    lyricsManglish: `Muthe Muthe Muthe Muthe Ponnomane
 Ninne kaanaan kothichoru naalil
 Manju peyyunna thaazhvarayil
 Oru jeevante kaliyaattamaayi
@@ -67,32 +69,29 @@ Ulakinte adhipathiye
 
 Muthe Muthe Chakkara Muthe (2)
 Muthe Muthe`
-}
-{
-  id: 2,
-  title: "കണ്ണും കണ്ണും കാത്തിരുന്നു",
-  englishTitle: "Kannum Kannum Kathirunnu",
-  category: "Christmas Song",
-  composer: "Titus Mathew",
-  artist: "D Voice",
-  language: "ml",
+  },
 
-  lyrics: `കണ്ണും കണ്ണും കാത്തിരുന്നു
+  {
+    id: 2,
+    title: "കണ്ണും കണ്ണും കാത്തിരുന്നു",
+    englishTitle: "Kannum Kannum Kathirunnu",
+    category: "Christmas Song",
+    composer: "Titus Mathew",
+    artist: "D Voice",
+    language: "ml",
+
+    lyrics: `കണ്ണും കണ്ണും കാത്തിരുന്നു
 മണ്ണിലൊരു പൈതലിനായ്
 കാതോട് കാതോരം കേട്ടിരുന്നു
-ദൈവപുത്രൻ പിറക്കുമെന്നു
-
-കണ്ണും കണ്ണും (2)
+ദൈവ പുത്രൻ പിറക്കുമെന്നു (2) കണ്ണും കണ്ണും
 
 ആകാശ വീഥിയിൽ മാലാഖമാരവർ
 സ്നേഹത്തിൻ നിറകുടമായ്
-താരാട്ടു പാടി ഉറക്കിടുവാനായ്
+താരാട്ടു പാടി ഉറക്കിടുവാനായി
 മനതാരിൽ നിന്നിരുന്നു
 
 ഇത്ര നല്ല സ്നേഹത്തെ തന്ന നല്ല നാഥനെ
-മെല്ലെ രാവിൽ പാടി സ്തുതിക്കാം
-
-കണ്ണും കണ്ണും (2)
+മെല്ലെ രാവിൽ പാടി സ്തുതിക്കാം (2) കണ്ണും കണ്ണും
 
 ജീവന്റെ പാതയിൽ കാരുണ്യകനവായ്
 കരുണാർദ്രൻ അലിഞ്ഞതിനം
@@ -100,35 +99,29 @@ Muthe Muthe`
 കൃപയിൽ നിറഞ്ഞിരുന്നു
 
 ഇത്ര നല്ല സ്നേഹത്തെ തന്ന നല്ല നാഥനെ
-മെല്ലെ രാവിൽ പാടി സ്തുതിക്കാം
+മെല്ലെ രാവിൽ പാടി സ്തുതിക്കാം (2) കണ്ണും കണ്ണും`,
 
-കണ്ണും കണ്ണും (2)`,
-
-  lyricsManglish: `Kannum Kannum Kaathirunnu
+    lyricsManglish: `Kannum Kannum Kaathirunnu
 Manniloru Paithalinaay
 Kaathodu Kaathoram Kettirunnu
-Daivaputhran Pirakkumennu
+Daiva Puthran Pirakkumennu (2) Kannum Kannum
 
-Kannum Kannum (2)
-
-Aakaasha Veedhiyil Maalaakhamaaravar
+Aakaasha Veedhiyil Maalaakhamaara-var
 Snehathin Nirakudamaay
-Thaaraattu Paadi Urakkiduvaanaay
+Thaaraattu Paadi Urakkiduvaanaayi
 Manathaaril Ninnirunnu
 
 Ithra Nalla Snehathe Thanna Nalla Naadhane
-Melle Raavil Paadi Sthuthikkaam
-
-Kannum Kannum (2)
+Melle Raavil Paadi Sthuthikkaam (2) Kannum Kannum
 
 Jeevante Paathayil Kaarunya Kanavaay
-KarunaarDran Alinjathin
+Karunaaridran Alinjathinam
 Aalolamaadi Laalichiduvaanaay
 Kripayil Niranjirunnu
 
 Ithra Nalla Snehathe Thanna Nalla Naadhane
-Melle Raavil Paadi Sthuthikkaam
+Melle Raavil Paadi Sthuthikkaam (2) Kannum Kannum`
+  }
+];
 
-Kannum Kannum (2)`
-}
-
+export default songs;
