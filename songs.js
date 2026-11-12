@@ -67,4 +67,69 @@ Ulakinte adhipathiye
 
 Muthe Muthe Chakkara Muthe (2)
 Muthe Muthe`
+},
+
+{
+  id: 2,
+  title: "കണ്ണും കണ്ണും കാത്തിരുന്നു",
+  englishTitle: "Kannum Kannum Kathirunnu",
+  category: "Christmas Song",
+  composer: "Titus Mathew",
+  artist: "D Voice",
+  language: "ml",
+
+  lyrics: `കണ്ണും കണ്ണും കാത്തിരുന്നു
+മണ്ണിലൊരു പൈതലിനായ്
+കാതോട് കാതോരം കേട്ടിരുന്നു
+ദൈവപുത്രൻ പിറക്കുമെന്നു
+
+കണ്ണും കണ്ണും (2)
+
+ആകാശ വീഥിയിൽ മാലാഖമാരവർ
+സ്നേഹത്തിൻ നിറകുടമായ്
+താരാട്ടു പാടി ഉറക്കിടുവാനായ്
+മനതാരിൽ നിന്നിരുന്നു
+
+ഇത്ര നല്ല സ്നേഹത്തെ തന്ന നല്ല നാഥനെ
+മെല്ലെ രാവിൽ പാടി സ്തുതിക്കാം
+
+കണ്ണും കണ്ണും (2)
+
+ജീവന്റെ പാതയിൽ കാരുണ്യകനവായ്
+കരുണാർദ്രൻ അലിഞ്ഞതിനം
+ആലോലമാടി ലാളിച്ചിടുവാനായ്
+കൃപയിൽ നിറഞ്ഞിരുന്നു
+
+ഇത്ര നല്ല സ്നേഹത്തെ തന്ന നല്ല നാഥനെ
+മെല്ലെ രാവിൽ പാടി സ്തുതിക്കാം
+
+കണ്ണും കണ്ണും (2)`,
+
+  lyricsManglish: `Kannum Kannum Kaathirunnu
+Manniloru Paithalinaay
+Kaathodu Kaathoram Kettirunnu
+Daivaputhran Pirakkumennu
+
+Kannum Kannum (2)
+
+Aakaasha Veedhiyil Maalaakhamaaravar
+Snehathin Nirakudamaay
+Thaaraattu Paadi Urakkiduvaanaay
+Manathaaril Ninnirunnu
+
+Ithra Nalla Snehathe Thanna Nalla Naadhane
+Melle Raavil Paadi Sthuthikkaam
+
+Kannum Kannum (2)
+
+Jeevante Paathayil Kaarunya Kanavaay
+KarunaarDran Alinjathin
+Aalolamaadi Laalichiduvaanaay
+Kripayil Niranjirunnu
+
+Ithra Nalla Snehathe Thanna Nalla Naadhane
+Melle Raavil Paadi Sthuthikkaam
+
+Kannum Kannum (2)`
 }
+
