@@ -5,7 +5,7 @@ const songs = [
     title: "മുത്തേ മുത്തേ മുത്തേ മുത്തേ",
     englishTitle: "Muthe Muthe Muthe Muthe",
     category: "Christmas Song",
-    composer: "Titus Mathew",
+    composer: "Sivasankar",
     artist: "D Voice",
     year: 2020,
     language: "ml",
